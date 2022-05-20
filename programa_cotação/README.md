@@ -18,5 +18,5 @@ pip install requests
 
 #### :globe_with_meridians: REDES SOCIAIS
 [linkedin](https://www.linkedin.com/in/victor-gabriel-da-silva-oliveira-2bb21720b)
-[E-mail](victoroliveira104@gmail.com)
+E-mail: victoroliveira104@gmail.com
 >**desenvolvedor**: Victor Gabriel
